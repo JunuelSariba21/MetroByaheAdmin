@@ -1,0 +1,10 @@
+**/bin
+**/obj
+.git
+.vs
+**/firebase-service-account.json
+firebase-service-account.json
+**/*.user
+**/*.pfx
+**/*.pem
+.env

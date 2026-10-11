@@ -1,0 +1,6 @@
+**/bin/
+**/obj/
+**/firebase-service-account.json
+.env
+*.pfx
+*.pem
